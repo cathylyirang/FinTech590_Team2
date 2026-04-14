@@ -1,0 +1,215 @@
+year,sourceiso3,targetiso3,sourcecomtradenum,targetcomtradenum,flowcode,flowdesc,cmdcode,cmddesc,primaryvalue,cifvalue,fobvalue,netwgt,classificationcode,isreported,isaggregate,sourcedataset,qualityflag
+2019,,,8,40,X,,TOTAL,,16292901.592,0.0,16292901.592,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,559986.336,0.0,559986.336,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1711563.807,0.0,1711563.807,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14021351.449,0.0,14021351.449,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14545388.744,0.0,14545388.744,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,559986.336,0.0,559986.336,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1643547.512,0.0,1643547.512,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,12341854.896,0.0,12341854.896,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14983.823,0.0,14983.823,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14983.823,0.0,14983.823,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1732529.025,0.0,1732529.025,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,68016.296,0.0,68016.296,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1664512.73,0.0,1664512.73,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,3544562.386,0.0,3544562.386,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,559986.336,0.0,559986.336,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,2984576.05,0.0,2984576.05,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,2058335.576,0.0,2058335.576,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,559986.336,0.0,559986.336,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1498349.24,0.0,1498349.24,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1486226.81,0.0,1486226.81,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1486226.81,0.0,1486226.81,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,16413.864,0.0,16413.864,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,16413.864,0.0,16413.864,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,16413.864,0.0,16413.864,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,16413.864,0.0,16413.864,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,50175.194,0.0,50175.194,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,50175.194,0.0,50175.194,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,50175.194,0.0,50175.194,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,50175.194,0.0,50175.194,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,68352.822,0.0,68352.822,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,68352.822,0.0,68352.822,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,7780.301,0.0,7780.301,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,7780.301,0.0,7780.301,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,60572.522,0.0,60572.522,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,60572.522,0.0,60572.522,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,75065.757,0.0,75065.757,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,75065.757,0.0,75065.757,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,75065.757,0.0,75065.757,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,75065.757,0.0,75065.757,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1982486.701,0.0,1982486.701,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1524974.562,0.0,1524974.562,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,457512.139,0.0,457512.139,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1801874.946,0.0,1801874.946,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1456958.266,0.0,1456958.266,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,344916.679,0.0,344916.679,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,180611.755,0.0,180611.755,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,68016.296,0.0,68016.296,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,112595.459,0.0,112595.459,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,111523.488,0.0,111523.488,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,111523.488,0.0,111523.488,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,111523.488,0.0,111523.488,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,111523.488,0.0,111523.488,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,8369626.795,0.0,8369626.795,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,8369626.795,0.0,8369626.795,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,8364508.857,0.0,8364508.857,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,8364508.857,0.0,8364508.857,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,5117.939,0.0,5117.939,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,5117.939,0.0,5117.939,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,634135.238,0.0,634135.238,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,634135.238,0.0,634135.238,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,634135.238,0.0,634135.238,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,634135.238,0.0,634135.238,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,20752.79,0.0,20752.79,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,20752.79,0.0,20752.79,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,20752.79,0.0,20752.79,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,20752.79,0.0,20752.79,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1419806.557,0.0,1419806.557,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1419806.557,0.0,1419806.557,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1404822.734,0.0,1404822.734,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,1404822.734,0.0,1404822.734,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14983.823,0.0,14983.823,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,8,40,X,,TOTAL,,14983.823,0.0,14983.823,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,20,8,X,,TOTAL,,365.668,,365.668,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,20,40,X,,TOTAL,,168018.447,,168018.447,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,40,8,X,,TOTAL,,63186189.881,,63186189.881,0.0,H5,False,True,uncomtrade,api_ok
+2019,,,40,20,X,,TOTAL,,7942983.322,,7942983.322,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,15170330.409,0.0,15170330.409,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,313595.731,0.0,313595.731,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,909972.265,0.0,909972.265,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,13946762.413,0.0,13946762.413,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,13881334.878,0.0,13881334.878,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,313595.731,0.0,313595.731,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,490463.179,0.0,490463.179,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,13077275.967,0.0,13077275.967,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,1288995.531,0.0,1288995.531,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,419509.086,0.0,419509.086,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,869486.445,0.0,869486.445,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,4229817.554,0.0,4229817.554,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,313367.604,0.0,313367.604,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3916449.949,0.0,3916449.949,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3427598.062,0.0,3427598.062,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,313367.604,0.0,313367.604,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3114230.458,0.0,3114230.458,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,802219.491,0.0,802219.491,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,802219.491,0.0,802219.491,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,5228.648,0.0,5228.648,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,5228.648,0.0,5228.648,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,5228.648,0.0,5228.648,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,5228.648,0.0,5228.648,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,228.127,0.0,228.127,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,228.127,0.0,228.127,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,228.127,0.0,228.127,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,228.127,0.0,228.127,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,171580.475,0.0,171580.475,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,171580.475,0.0,171580.475,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,171580.475,0.0,171580.475,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,171580.475,0.0,171580.475,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,1594385.947,0.0,1594385.947,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,738391.79,0.0,738391.79,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,855994.157,0.0,855994.157,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,1111260.527,0.0,1111260.527,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,318882.704,0.0,318882.704,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,792377.822,0.0,792377.822,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,483125.42,0.0,483125.42,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,419509.086,0.0,419509.086,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,63616.335,0.0,63616.335,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,6609143.886,0.0,6609143.886,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,6609143.886,0.0,6609143.886,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,6609143.886,0.0,6609143.886,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,6609143.886,0.0,6609143.886,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3650.619,0.0,3650.619,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3650.619,0.0,3650.619,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3650.619,0.0,3650.619,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,3650.619,0.0,3650.619,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,2556295.152,0.0,2556295.152,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,2556295.152,0.0,2556295.152,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,2556295.152,0.0,2556295.152,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,8,40,X,,TOTAL,,2556295.152,0.0,2556295.152,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,20,8,X,,TOTAL,,11596.13,,11596.13,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,20,40,X,,TOTAL,,194028.666,,194028.666,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,40,8,X,,TOTAL,,54972120.617,0.0,54972120.617,0.0,H5,False,True,uncomtrade,api_ok
+2020,,,40,20,X,,TOTAL,,5280108.799,0.0,5280108.799,0.0,H5,False,True,uncomtrade,api_ok
+2023,,,8,40,X,,TOTAL,All products,330846301.356,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,56,X,,TOTAL,All products,71696798.021,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,100,X,,TOTAL,All products,328521216.658,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,70,X,,TOTAL,All products,239179674.689,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,112,X,,TOTAL,All products,8014437.936,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,196,X,,TOTAL,All products,15996080.577,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,203,X,,TOTAL,All products,487818314.194,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,276,X,,TOTAL,All products,1836424026.664,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,208,X,,TOTAL,All products,54653980.641,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,724,X,,TOTAL,All products,1502184292.136,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,233,X,,TOTAL,All products,66617567.418,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,246,X,,TOTAL,All products,6614353.926,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,826,X,,TOTAL,All products,507309062.893,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,292,X,,TOTAL,All products,2054169.536,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,300,X,,TOTAL,All products,2277959163.005,,,,H6,False,True,uncomtrade,api_ok
+2023,,,8,348,X,,TOTAL,All products,176462748.157,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,276,X,,TOTAL,All products,1908957.121,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,208,X,,TOTAL,All products,148210.379,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,724,X,,TOTAL,All products,110953586.671,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,233,X,,TOTAL,All products,5620.46,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,246,X,,TOTAL,All products,8638.269,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,300,X,,TOTAL,All products,9654.371,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,380,X,,TOTAL,All products,2569674.742,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,442,X,,TOTAL,All products,241779.326,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,616,X,,TOTAL,All products,1044308.11,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,620,X,,TOTAL,All products,765071.845,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,642,X,,TOTAL,All products,120723.908,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,643,X,,TOTAL,All products,254480.73,,,,H6,False,True,uncomtrade,api_ok
+2023,,,20,674,X,,TOTAL,All products,125.445,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,826,X,,TOTAL,All products,5889314488.746,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,292,X,,TOTAL,All products,1297520.181,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,300,X,,TOTAL,All products,772677966.173,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,191,X,,TOTAL,All products,2090865121.376,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,348,X,,TOTAL,All products,7719136793.424,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,380,X,,TOTAL,All products,13165973518.939,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,442,X,,TOTAL,All products,240690900.846,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,428,X,,TOTAL,All products,238852807.987,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,807,X,,TOTAL,All products,193562525.658,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,499,X,,TOTAL,All products,58220381.185,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,642,X,,TOTAL,All products,4206708626.979,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,643,X,,TOTAL,All products,1401824525.337,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,705,X,,TOTAL,All products,4532768393.952,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,752,X,,TOTAL,All products,2037234908.217,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,792,X,,TOTAL,All products,2187430079.661,,,,H6,False,True,uncomtrade,api_ok
+2023,,,40,804,X,,TOTAL,All products,665036903.026,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,8,X,,TOTAL,All products,39959711.471,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,616,X,,TOTAL,All products,10112945173.231,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,620,X,,TOTAL,All products,2243832756.625,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,643,X,,TOTAL,All products,2104132499.978,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,688,X,,TOTAL,All products,626113660.329,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,703,X,,TOTAL,All products,1270674700.577,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,752,X,,TOTAL,All products,7048783373.53,,,,H6,False,True,uncomtrade,api_ok
+2023,,,56,804,X,,TOTAL,All products,543557742.096,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,56,X,,TOTAL,All products,6025486660.287,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,724,X,,TOTAL,All products,5013329630.829,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,246,X,,TOTAL,All products,426399785.59900004,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,292,X,,TOTAL,All products,743586508.124,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,428,X,,TOTAL,All products,245529371.662,,,,H6,False,True,uncomtrade,api_ok
+2023,,,100,499,X,,TOTAL,All products,81479150.35,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,203,X,,TOTAL,All products,500649140.55799997,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,208,X,,TOTAL,All products,107863107.143,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,724,X,,TOTAL,All products,154944340.174,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,233,X,,TOTAL,All products,9403028.225,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,246,X,,TOTAL,All products,27534321.208,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,300,X,,TOTAL,All products,47521254.62,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,304,X,,TOTAL,All products,2492.312,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,191,X,,TOTAL,All products,5634225516.087,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,348,X,,TOTAL,All products,636991865.435,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,352,X,,TOTAL,All products,981.296,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,440,X,,TOTAL,All products,164373370.7,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,428,X,,TOTAL,All products,6570169.842,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,499,X,,TOTAL,All products,1525708174.848,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,642,X,,TOTAL,All products,382865222.656,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,643,X,,TOTAL,All products,225725395.209,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,705,X,,TOTAL,All products,2997852616.81,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,792,X,,TOTAL,All products,578183463.587,,,,H6,False,True,uncomtrade,api_ok
+2023,,,70,804,X,,TOTAL,All products,37756964.399000004,,,,H6,False,True,uncomtrade,api_ok
+2023,,,196,40,X,,TOTAL,All products,132240614.104,,,,H6,False,True,uncomtrade,api_ok
+2023,,,196,56,X,,TOTAL,All products,145455472.616,,,,H6,False,True,uncomtrade,api_ok
+2023,,,196,100,X,,TOTAL,All products,185238251.6,,,,H6,False,True,uncomtrade,api_ok
+2023,,,196,70,X,,TOTAL,All products,9198006.144,,,,H6,False,True,uncomtrade,api_ok
+2023,,,196,112,X,,TOTAL,All products,129613.832,,,,H6,False,True,uncomtrade,api_ok
